@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725406615836",
+    "project_id": "subenbulen",
+    "storage_bucket": "subenbulen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725406615836:android:8a6c7f2ac529386af112d9",
+        "android_client_info": {
+          "package_name": "com.example.subenbulen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725406615836-dpl9evont2s4jtv0b08obi257l5hd3t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYC9jFIAMBl3sfoU4rl0IYMngSN4JYd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725406615836-dpl9evont2s4jtv0b08obi257l5hd3t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
